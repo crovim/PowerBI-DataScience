@@ -1,2 +1,2 @@
 # PowerBI-DataScience
-Projetos desenvolvidos durante o curso de Microsoft Power BI
+Projects developed during the Microsoft Power BI course
